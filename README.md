@@ -38,6 +38,3 @@ Validata is a flexible and modular validation toolkit designed to:
 ```bash
 git clone https://github.com/wake-mayank/Validata.git
 cd Validata
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
