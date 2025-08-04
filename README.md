@@ -1,39 +1,36 @@
-# Validata 🚀
+# Validata 🌐
 
-A validation platform/tool (e.g. for AR.Drone or others) originally inspired by alveflo/Validata :contentReference[oaicite:1]{index=1}. This repository (“Validata”) provides a framework for validating data, configurations, or system behavior—depending on your target use case.
-
----
-
-## 🔍 Overview
-
-Validata is a flexible and modular validation toolkit designed to:
-
-- Evaluate data or configuration input for correctness
-- Validate runtime behavior or telemetry output (e.g. from drones or sensors)
-- Produce validation reports and actionable feedback
-- Be extensible to new types of validators
+**Validata** is a front-end web application built with HTML, CSS, and JavaScript that validates form inputs in real-time. It provides an interactive interface for users to enter and validate data with instant visual feedback.
 
 ---
 
-## ⚙️ Features
+## 📸 Demo
 
-- Define rules or schemas for validation
-- Support automated pipeline testing
-- Modular architecture to integrate new validator modules
-- CLI interface to run validations in batch
-- Report generation in JSON and human-readable formats
+<img width="850" height="781" alt="image" src="https://github.com/user-attachments/assets/5ae173df-b327-4ebe-a754-b0246789f7fe" />
 
 ---
 
-## 🧰 Tech Stack
+## ✨ Features
 
-- **Language**: Python (or replace with your implementation language)
-- **Data tools**: JSON, YAML for rules/configuration
-- **CLI**: `/bin/validate` or `main.py`
+- 🧠 Real-time form validation  
+- ✅ Instant feedback on valid/invalid inputs  
+- 💬 Error message display and styling  
+- 📱 Fully responsive layout  
+- 🎨 Clean and minimal UI design
 
 ---
 
-## 📦 Installation
+## 🛠️ Built With
+
+- **HTML5** – Markup for the structure  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript (Vanilla)** – Form validation logic  
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the repo
 
 ```bash
 git clone https://github.com/wake-mayank/Validata.git
